@@ -1,0 +1,16 @@
+body {
+  background: #8E7A7A;
+}
+
+.lexend-mega {
+  font-family: "Lexend Mega", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.name {
+  text-align: center;
+  color:#5F3D41;
+  padding: 20px;
+}
